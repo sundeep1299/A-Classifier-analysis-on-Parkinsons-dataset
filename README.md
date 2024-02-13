@@ -59,7 +59,6 @@ Parkinson's disease is a neurodegenerative disorder that affects movement. Early
 ## Getting Started:
 To run the code in this repository, follow these steps:
 1. Clone the repository to your local machine:
-```bash
 git clone https://github.com/your-username/parkinsons-prediction.git
 Navigate to the project directory:
 bash
@@ -76,5 +75,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments:
 Special thanks to UCI Machine Learning Repository for providing the Parkinson's disease dataset.
 
-![image](https://github.com/sundeep1299/A-Classifier-analysis-on-Parkinsons-dataset/assets/68639805/f65a2ea3-a3a1-4d02-8d4d-c51561c204be)
+![image](https://github.com/sundeep1299/A-Classifier-analysis-on-Parkinsons-dataset/assets/68639805/64289133-44a3-4a76-a47f-3c77c3347334)
+
 
