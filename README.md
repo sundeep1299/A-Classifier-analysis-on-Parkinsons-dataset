@@ -75,3 +75,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Acknowledgments:
 Special thanks to UCI Machine Learning Repository for providing the Parkinson's disease dataset.
+
+![image](https://github.com/sundeep1299/A-Classifier-analysis-on-Parkinsons-dataset/assets/68639805/f65a2ea3-a3a1-4d02-8d4d-c51561c204be)
+
