@@ -24,7 +24,7 @@ Parkinson's disease is a neurodegenerative disorder that affects movement. Early
 ## Getting Started:
 To run the code in this repository, follow these steps:
 1. Clone the repository to your local machine:
-```bash
+
 git clone https://github.com/your-username/parkinsons-prediction.git
 Navigate to the project directory:
 cd parkinsons-prediction
@@ -61,8 +61,6 @@ To run the code in this repository, follow these steps:
 1. Clone the repository to your local machine:
 git clone https://github.com/your-username/parkinsons-prediction.git
 Navigate to the project directory:
-bash
-Copy code
 cd parkinsons-prediction
 Install the required dependencies using pip:
 bash
